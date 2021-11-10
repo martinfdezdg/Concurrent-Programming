@@ -20,5 +20,5 @@ Asignatura: Programación Concurrente
   - Clases Lock y Condition
 - [Proyecto final](https://github.com/martinfdezdg/PCon/tree/main/Laboratorio/Proyecto%20final)
 
-  Implementación de una aplicación capaz de gestionar y llevar a cabo el *intercambio de fotos entre nodos distribuidos* en Java.
+  Implementación de una aplicación capaz de gestionar y llevar a cabo el *intercambio de fotos entre nodos distribuidos* en Java.<br>
   Se trata de un híbrido entre arquitectura cliente-servidor y peer-to-peer en la que el intercambio de información se realiza directamente entre los propios clientes, y el servidor únicamente actúa proporcionando información acerca de qué información hay disponible en el sistema y quiénes son los nodos propietarios de la información.
