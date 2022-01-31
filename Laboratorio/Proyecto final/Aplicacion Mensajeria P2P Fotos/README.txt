@@ -1,4 +1,4 @@
-Desde la carpeta principal de la practica
+Desde la carpeta principal de la práctica
 
 COMPILAR:
 javac src/Cliente/*.java src/Servidor/*.java src/Mensaje/*.java src/Interfaz/*.java src/Utilidades/*.java
