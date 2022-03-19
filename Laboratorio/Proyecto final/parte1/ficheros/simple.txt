@@ -1,4 +1,0 @@
-OBJECTS
-
-PROCESS
-- a:Int := Persona.edad,

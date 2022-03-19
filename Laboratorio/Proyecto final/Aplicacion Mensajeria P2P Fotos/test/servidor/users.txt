@@ -1,8 +1,0 @@
-belen
-192.168.1.70
-1234
-miyu.jpg 
-martin
-192.168.1.67
-1234
-astro.jpg 
